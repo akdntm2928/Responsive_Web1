@@ -195,7 +195,7 @@ p {
 .statsBox {
     position: relative;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     grid-gap: 20px;
     max-width: 100%;
     margin: 40px;
@@ -478,7 +478,7 @@ p {
         background-position: center;
     }
     .banner h2 {
-        font-size: 60px;
+        font-size: 30px;
         padding: 0px 50px;
     }
     .sec {
